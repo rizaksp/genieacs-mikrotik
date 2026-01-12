@@ -27,7 +27,7 @@ npm install pm2 -g
 apt install git curl -y
 ```
 ```bash
-git clone https://github.com/alijayanet/genieacs-mikrotik
+git clone https://github.com/rizaksp/genieacs-mikrotik
 ```
 ```
 cd genieacs-mikrotik
